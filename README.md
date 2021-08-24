@@ -2,7 +2,7 @@
 
 ## Description
 
-![Portfolio Screenshot](/Users/bachicha/webDev/Projects/Portfolio/assets/portfolioscreenshot.png)
+![Portfolio Screenshot](assets/portfolioscreenshot.png)
 
 ## Questions
 
