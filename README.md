@@ -2,6 +2,8 @@
 
 ## Description
 
+![Portfolio Screenshot](/Users/bachicha/webDev/Projects/Portfolio/assets/portfolioscreenshot.png)
+
 ## Questions
 
 Any inquiries, personal or business, can be directed to my email address at <agbachicha@outlook.com>.
