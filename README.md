@@ -4,6 +4,8 @@
 
 ![Portfolio Screenshot](assets/portfolioscreenshot.png)
 
+View my portfolio ![here](https://alexbachicha.github.io/PortfolioV2/).
+
 ## Questions
 
 Any inquiries, personal or business, can be directed to my email address at <agbachicha@outlook.com>.
