@@ -4,7 +4,7 @@
 
 ![Portfolio Screenshot](assets/portfolioscreenshot.png)
 
-View my portfolio ![here](https://alexbachicha.github.io/PortfolioV2/).
+View my portfolio [here](https://alexbachicha.github.io/PortfolioV2/).
 
 ## Questions
 
