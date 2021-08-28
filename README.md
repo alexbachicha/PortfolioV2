@@ -2,7 +2,7 @@
 
 ## Description
 
-[Portfolio Screenshot](assets/portfolioscreenshot.png)
+![Portfolio Screenshot](assets/portfolioscreenshot.png)
 
 View my portfolio [here](https://alexbachicha.github.io/PortfolioV2/).
 
